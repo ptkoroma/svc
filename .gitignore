@@ -23,6 +23,7 @@ wp-config-ddev.php
 
 #SSH
 .well-known/
+/keys
 
 # Example themes
 /wp-content/themes/twenty*/
