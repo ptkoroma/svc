@@ -1,0 +1,104 @@
+[28-Oct-2023 02:38:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[28-Oct-2023 02:41:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[31-Oct-2023 00:43:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[09-Nov-2023 15:50:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[15-Nov-2023 06:29:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[15-Nov-2023 17:47:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[17-Nov-2023 08:59:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[17-Nov-2023 22:38:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[28-Nov-2023 01:07:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[03-Dec-2023 00:07:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[04-Dec-2023 17:01:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[09-Dec-2023 16:48:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[20-Dec-2023 04:24:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[20-Dec-2023 04:25:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[26-Dec-2023 01:14:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[28-Dec-2023 04:47:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[01-Jan-2024 02:29:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[02-Jan-2024 00:52:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[02-Jan-2024 00:53:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[10-Jan-2024 13:00:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[11-Jan-2024 14:05:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[11-Jan-2024 14:09:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[16-Jan-2024 00:31:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[30-Jan-2024 23:41:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[01-Feb-2024 07:59:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8
+[08-Feb-2024 08:59:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pkoroma/public_html/svcus.org/wp-includes/blocks/index.php on line 8

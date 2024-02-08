@@ -1,0 +1,34 @@
+<b>6.5.0  SINGLE DOMAIN SSL 1 - https://svcus.org</b>
+Domain covered:
+["svcus.org","www.svcus.org"]
+
+[03-01-2024 19:56:28] :
+LEClient finished constructing
+
+[03-01-2024 19:56:28] :
+Order data for 'svcus.org' invalid. Deleting order data and creating new order. Order exception is Invalid response: 404 <b>(No order for ID 209268087096)</b>
+
+[03-01-2024 19:56:30] :
+Created order for 'svcus.org'.
+
+Offering manual verification procedure. 
+
+Local check - All HTTP challenges verified
+
+[03-01-2024 20:00:44] :
+LEClient finished constructing
+
+[03-01-2024 20:00:44] :
+Order object is {"status":"pending","expires":"2024-01-10T19:56:29Z","identifiers":[{"type":"dns","value":"svcus.org"},{"type":"dns","value":"www.svcus.org"}],"authorizations":["https:\/\/acme-v02.api.letsencrypt.org\/acme\/authz-v3\/300425380606","https:\/\/acme-v02.api.letsencrypt.org\/acme\/authz-v3\/300425380616"],"finalize":"https:\/\/acme-v02.api.letsencrypt.org\/acme\/finalize\/788463542\/234014499216"}
+
+Starting HTTP verification
+Finalizing the order
+[03-01-2024 20:00:51] :
+Order for 'svcus.org' finalized.
+
+Getting SSL certificates
+[03-01-2024 20:00:51] :
+Certificate for 'svcus.org' saved
+
+Emailing certs as attachment
+<h2>SSL Certificate generated successfully!</h2>

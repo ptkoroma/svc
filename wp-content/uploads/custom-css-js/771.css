@@ -1,0 +1,40 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+.wpdevart_org_chart_container .wpda_tree_item_img_cont {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 0px;
+    display: inline-block;
+}
+
+.wpdevart_org_chart_container li .wpda_tree_item_container > div {
+border: 1px solid #ccc;
+padding: 0px;
+text-decoration: none;
+color: #666;
+font-family: arial, verdana, tahoma;
+font-size: 11px;
+display: inline-block;
+border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+min-height: 200px;
+min-width: 200px;
+overflow: hidden;
+line-height: normal;
+background-color: white;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
